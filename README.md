@@ -40,3 +40,7 @@ Each row in matches.csv data set contains:
 2. Win %age ( home vs away)
 
 ![alt text](https://github.com/manaswikamila05/IPL-Dataset-Visualization-using-Tableau/blob/main/Team%20Statistics.PNG?raw=true)
+
+
+
+The dashboards are published at https://public.tableau.com/app/profile/manaswi.kamila
