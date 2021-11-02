@@ -24,13 +24,19 @@ Each row in matches.csv data set contains:
 1. Toss outcome vs Match outcome (for each Ground/Venue)
 2. Biggest wins (by runs and by wicket)
 3. Highest totals (across all the seasons)
- 
+
+![alt text](https://github.com/manaswikamila05/IPL-Dataset-Visualization-using-Tableau/blob/main/Match%20Statistics.PNG?raw=true)
 
 #### Player Statistics
 1. Orange Cap contenders (The batsmen who have scored the maximum number of runs in a particular season)
 2. Purple Cap contenders (The bowlers who have taken the maximum number of wickets in a particular season)
 3. Batsmen who have hit the most number of fours and sixes (per season and overall)
 
+
+![alt text](https://github.com/manaswikamila05/IPL-Dataset-Visualization-using-Tableau/blob/main/Player%20Statistics.PNG?raw=true)
+
 #### Team Statistics
 1. Season-wise team performance (wins vs losses)
 2. Win %age ( home vs away)
+
+![alt text](https://github.com/manaswikamila05/IPL-Dataset-Visualization-using-Tableau/blob/main/Team%20Statistics.PNG?raw=true)
